@@ -22,3 +22,6 @@ RecyclerView: A RecyclerView é usada para exibir a lista de filmes, proporciona
 
 Intents: O aplicativo utiliza Intents para navegar entre as atividades e transferir dados entre elas.
 
+![image](https://github.com/RitaDCassia/RitaFlixUI/assets/117660507/cddaf668-8024-41a4-8136-e56d8dfaa714) ![image](https://github.com/RitaDCassia/RitaFlixUI/assets/117660507/52b7a977-7051-4765-8912-1a51e7a6247c)
+
+
