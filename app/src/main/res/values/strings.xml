@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RitaFlix</string>
+    <string name="director">Diretor: </string>
+    <string name="time">Tempo:</string>
+    <string name="min">min</string>
+    <string name="IMB">IMB</string>
+
+    <!--info guardioes da galaxia -->
+    <string name="guardians_of_the_galaxyaum">Guardiões da galáxia</string>
+    <string name="name_director_guardians_of_the_galaxyaum">James Gunn</string>
+    <string name="time_guardians_of_the_galaxyaum">161</string>
+    <string name="imb_guardians_of_the_galaxyaum">8.0</string>
+    <string name="sinopse_guardians_of_the_galaxyaum">O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.</string>
+
+    <!-- info spiderman -->
+    <string name="spider_man_no_way_home">Homem aranha: Sem volta pra casa</string>
+    <string name="name_director_spider_man_no_way_home">Jon Watts</string>
+    <string name="time_spider_man_no_way_home">148</string>
+    <string name="imb_spider_man_no_way_home">9.0</string>
+    <string name="sinopsespider_man_no_way_home">Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos Vingadores precisam enfrentar inimigos de todo o multiverso.</string>
+
+    <!-- Doctor_Strange_in_the_Multiverse_of_Madness -->
+    <string name="Doctor_Strange_in_the_Multiverse_of_Madness">Doutor estranho no Multiverso da loucura</string>
+    <string name="name_director_Doctor_Strange_in_the_Multiverse_of_Madness">John Mathieson</string>
+    <string name="time_Doctor_Strange_in_the_Multiverse_of_Madness">126</string>
+    <string name="imb_Doctor_Strange_in_the_Multiverse_of_Madness">8.5</string>
+    <string name="sinopse_Doctor_Strange_in_the_Multiverse_of_Madness">O aguardado filme trata da jornada do Doutor Estranho rumo ao desconhecido. Além de receber ajuda de novos aliados místicos e outros já conhecidos do público, o personagem atravessa as realidades alternativas incompreensíveis e perigosas do Multiverso para enfrentar um novo e misterioso adversário.</string>
+
+    <!-- Avengers: Infinity War -->
+    <string name="Avengers_Infinity_War">Vingadores: Guerra Infinita</string>
+    <string name="name_director_Avengers_Infinity_War">Anthony Russo, Joe Russo</string>
+    <string name="time_Avengers_Infinity_War">149</string>
+    <string name="imb_Avengers_Infinity_War">10</string>
+    <string name="sinopse_Avengers_Infinity_War">Homem de Ferro, Capitão América, Thor, Hulk e os Vingadores se unem para combater o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a humanidade.</string>
+
+    <!-- Avengers_Endgame -->
+    <string name="Avengers_Endgame">Vingadores: Ultimato</string>
+    <string name="name_director_Avengers_Endgame">Anthony Russo, Joe Russo</string>
+    <string name="time_Avengers_Endgame">182</string>
+    <string name="imb_Avengers_Endgame">8.9</string>
+    <string name="sinopse_Avengers_Endgame">Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.</string>
+</resources>
